@@ -12,7 +12,7 @@ public class Counter {
 		count = 0;
 	}
 	
-	public void increment() {
+	public void increments() {
 		count++;
 	}
 	
