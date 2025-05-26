@@ -17,5 +17,4 @@ public class Driver {
 		System.out.println("Hitung:" + counter.getCount());
 		
 	}
-
 }
