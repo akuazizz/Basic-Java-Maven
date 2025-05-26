@@ -8,16 +8,12 @@ public class Driver {
 		
 		System.out.println("Hitung:" + counter.getCount());
 		
-		counter.increaseBy(5);
+		counter.increment();
 		
 		System.out.println("Hitung:" + counter.getCount());
 		
-		counter.decreaseBy(2);
+		counter.decrement();
 		
-		System.out.println("Hitung:" + counter.getCount());
-
-		counter.multiplyBy(6);
-
 		System.out.println("Hitung:" + counter.getCount());
 		
 	}
